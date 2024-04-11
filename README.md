@@ -18,7 +18,7 @@
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/anujainbatu)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/anujjainbatu/)
-[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/anujjainbatu?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/anujjainbatu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/anujjainbatu?tab=followers)
 
 
 
