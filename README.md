@@ -16,10 +16,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anujjainbatu/](https://www.linkedin.com/in/anujjainbatu/)) 
-- [Twitter](https://twitter.com/anujjainbatu)
-- [Instagram](https://www.instagram.com/anujjainbatu)
-- [Email](mailto:anujjainbatu@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/anujainbatu)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/anujjainbatu/)
+[![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/EngincanV?tab=followers)
 
 
 
