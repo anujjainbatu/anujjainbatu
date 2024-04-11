@@ -3,9 +3,9 @@
 <detail>
 <h2>Freelancer Fiverr • B. Tech in Internet of Things • Machine Learning Enthusiast</h2>
 
-### I'm a highly motivated B.Tech student at Samrat Ashok Technological Institute, specializing in Internet of Things. My passion lies in leveraging Artificial Intelligence and Machine Learning to solve real-world problems. I possess strong technical skills in Python, data analysis, and model development, recently building a highly accurate laptop valuation model using XGBoost and other advanced techniques.
+<p>I'm a highly motivated B.Tech student at Samrat Ashok Technological Institute, specializing in Internet of Things. My passion lies in leveraging Artificial Intelligence and Machine Learning to solve real-world problems. I possess strong technical skills in Python, data analysis, and model development, recently building a highly accurate laptop valuation model using XGBoost and other advanced techniques.</p>
 
-### In my freelance experience, I've successfully launched an Android app on the Play Store and ensured its compliance with data security regulations. I'm eager to connect with professionals in the AI and Machine Learning space to learn and collaborate on innovative projects!
+<p>In my freelance experience, I've successfully launched an Android app on the Play Store and ensured its compliance with data security regulations. I'm eager to connect with professionals in the AI and Machine Learning space to learn and collaborate on innovative projects!</p>
 </detail>
 
 
