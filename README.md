@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anuj Jain</h1>
-<h3 align="center">IoT & AI Developer | Cybersecurity Enthusiast | Creative Technologist</h3>
+<h3 align="center">Building Intelligent Systems with IoT, ML & Generative AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IoT%20%7C%20AI%20%7C%20Cybersecurity%20%7C%20Generative%20AI%20Builder;Always%20Learning%20and%20Building%20!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=IoT%20%7C%20AI-ML%20%7C%20Generative%20AI%20Builder;Always%20Learning%20and%20Building%20!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anujjainbatu/anujjainbatu/blob/main/Anuj_Jain_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/ Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 ---
@@ -72,10 +78,33 @@ Platforms:       Firebase, Android Studio, Jupyter, VS Code
 <details>
 <summary>📊 GitHub Stats</summary>
 
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- GitHub Stats -->
+      <td style="width: 49%; height: 330px;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=anujjainbatu&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
+          alt="Anuj's GitHub Stats" 
+          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
+      </td>
+      <!-- GitHub Streak -->
+      <td style="width: 49%; height: 330px;">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com?user=anujjainbatu&theme=radical&hide_border=true" 
+          alt="Anuj's GitHub Streak" 
+          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujjainbatu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujjainbatu&theme=tokyonight&hide_border=true" />
+  <img width="90%" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=anujjainbatu&theme=dracula&hide_border=true" 
+    alt="Anuj's GitHub Activity Graph" />
 </p>
 
 </details>
