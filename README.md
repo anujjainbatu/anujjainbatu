@@ -1,39 +1,111 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Anuj Jain</h1>
+<h3 align="center">IoT & AI Developer | Cybersecurity Enthusiast | Creative Technologist</h3>
 
-<detail>
-<h2>Freelancer Fiverr • B. Tech in Internet of Things • Machine Learning Enthusiast</h2>
-
-<p>I'm a highly motivated B.Tech student at Samrat Ashok Technological Institute, specializing in Internet of Things. My passion lies in leveraging Artificial Intelligence and Machine Learning to solve real-world problems. I possess strong technical skills in Python, data analysis, and model development, recently building a highly accurate laptop valuation model using XGBoost and other advanced techniques.</p>
-
-<p>In my freelance experience, I've successfully launched an Android app on the Play Store and ensured its compliance with data security regulations. I'm eager to connect with professionals in the AI and Machine Learning space to learn and collaborate on innovative projects!</p>
-</detail>
-
-
-# 💻 Tech Stack:
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white)
-
-
-
-
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/EngincanVeske)](https://twitter.com/anujainbatu)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/anujjainbatu/)
-[![GitHub followers](https://img.shields.io/github/followers/anujjainbatu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/anujjainbatu?tab=followers)
-
-
-
-<detail>
-<summary><h2>My Most Used Languages</h2></summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujjainbatu&layout=compact&theme=blue-green">
-</detail>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=anujjainbatu&theme=nightowl&hide_border=false)<br/>
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=IoT%20%7C%20AI%20%7C%20Cybersecurity%20%7C%20Generative%20AI%20Builder;Always%20Learning%20and%20Building%20!" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anujjainbatu&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
- 
+
+### 👨‍💻 About Me
+
+- 🎓 Pursuing **B.Tech in Internet of Things** at Samrat Ashok Technological Institute (GPA: 8.34/10)
+- 🔬 Finalist @ **Smart India Hackathon 2025** – Top 5 out of 88,000+ teams
+- 🧠 Passionate about building **intelligent systems** that bridge **hardware and software**
+- 🧪 Strong foundation in **Generative AI, ML Model Engineering, Backend Development, and IoT**
+- 🛠️ Currently exploring **LLM Agents, AI-Powered Tools, and Full-Stack IoT Apps**
+
+---
+
+### 🧰 Tech Stack
+
+```yaml
+Languages:       Python, SQL, JavaScript, C++, Java
+Backend:         Flask, Django, REST APIs
+Frontend:        React.js, HTML/CSS, Firebase
+ML & AI:         TensorFlow, XGBoost, Scikit-learn, Pandas, NumPy, OpenCV
+Tools & DevOps:  Git, Docker, GitHub Actions, Postman, Heroku
+Platforms:       Firebase, Android Studio, Jupyter, VS Code
+````
+
+---
+
+### 🏆 Notable Projects
+
+<table>
+<tr>
+  <td width="50%">
+    <h4>♟️ Smart Chessboard</h4>
+    <ul>
+      <li>Low-cost IoT chessboard with 98.2% accuracy</li>
+      <li>React dashboard + Stockfish engine</li>
+      <li><a href="https://github.com/anujjainbatu/chess-trace">🔗 GitHub</a></li>
+    </ul>
+  </td>
+  <td width="50%">
+    <h4>🛡️ hideFlare (SIH Finalist)</h4>
+    <ul>
+      <li>Cybersecurity tool for CDN obfuscation detection</li>
+      <li>XGBoost, Flask backend, DNS & TLS forensics</li>
+      <li><a href="https://github.com/anujjainbatu/hideFlare">🔗 GitHub</a></li>
+    </ul>
+  </td>
+</tr>
+</table>
+
+---
+
+### 💼 Experience
+
+* **Software Engineering Intern @ MookMati**
+
+  * Optimized checkout & inventory APIs (↑ speed by 30%)
+  * Built price tracking UI in React & improved unit tests (85% coverage)
+* **Freelance Python Developer @ Fiverr**
+
+  * Delivered 20+ automation tools for scraping/data pipelines
+  * Built REST APIs with Flask/Django and payment integration
+
+---
+
+### 🥇 Achievements
+
+* 🏅 **2nd Place – Smart India Hackathon 2025** (Top 0.005% teams)
+* 🧠 **HDFC Badhte Kadam Scholar** – 2023 & 2024
+* 🚗 **3rd Place – Robo Race @ Techfest 2023** with ESP32 autonomous car
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:anujjainbatu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/anujjainbatu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/anujjainbatu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/anujainbatu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://leetcode.com/u/anujjainbatu"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+</p>
+
+---
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anujjainbatu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujjainbatu&theme=tokyonight&hide_border=true" />
+</p>
+
+</details>
+
+<details>
+<summary>🔍 Currently Learning</summary>
+
+* Building Autonomous Agents with LangChain
+* Advanced Prompt Engineering for Business
+* Designing Scalable IoT Systems
+* Ethical AI & Red Teaming
+
+</details>
+```
