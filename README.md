@@ -32,26 +32,7 @@ Platforms:       Firebase, Android Studio, Jupyter, VS Code
 
 ### 🏆 Notable Projects
 
-<table>
-<tr>
-  <td width="50%">
-    <h4>♟️ Smart Chessboard</h4>
-    <ul>
-      <li>Low-cost IoT chessboard with 98.2% accuracy</li>
-      <li>React dashboard + Stockfish engine</li>
-      <li><a href="https://github.com/anujjainbatu/chess-trace">🔗 GitHub</a></li>
-    </ul>
-  </td>
-  <td width="50%">
-    <h4>🛡️ hideFlare (SIH Finalist)</h4>
-    <ul>
-      <li>Cybersecurity tool for CDN obfuscation detection</li>
-      <li>XGBoost, Flask backend, DNS & TLS forensics</li>
-      <li><a href="https://github.com/anujjainbatu/hideFlare">🔗 GitHub</a></li>
-    </ul>
-  </td>
-</tr>
-</table>
+<table> <tr> <td width="50%"> <h3>♟️ Smart Chessboard</h3> <p> 🧠 IoT + Cloud + AI integration for physical chess<br> 🔍 <strong>98.2% move detection</strong> using ESP32, reed switches<br> 🌐 Firebase cloud + React dashboard + Stockfish AI<br> 🔋 40% power optimized<br><br> <a href="https://github.com/anujjainbatu/chess-trace"> <img src="https://img.shields.io/github/stars/anujjainbatu/chess-trace?style=social" /> </a> <a href="https://github.com/anujjainbatu/chess-trace"> <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> <td width="50%"> <h3>🛡️ hideFlare</h3> <p> 🏆 <strong>Smart India Hackathon Finalist (Top 5)</strong><br> 🧪 AI + Cybersecurity tool for CDN obfuscation<br> 📊 Built with Flask, Scikit-learn, XGBoost (92% accuracy)<br> 🛰️ Real-time DNS, TLS fingerprinting, ASN & GeoIP analysis<br><br> <a href="https://github.com/anujjainbatu/hideFlare"> <img src="https://img.shields.io/github/stars/anujjainbatu/hideFlare?style=social" /> </a> <a href="https://github.com/anujjainbatu/hideFlare"> <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> </tr> <tr> <td width="50%"> <h3>⚙️ Fiverr Automations</h3> <p> 🧰 Delivered 20+ automation tools via freelancing<br> 🔄 Python + Selenium + Requests for scraping & pipelines<br> 💳 Integrated Flask APIs with payment and dashboard<br> ⏱️ 3x faster code than client legacy scripts<br><br> <a href="https://fiverr.com/anujjainbatu"> <img src="https://img.shields.io/badge/Fiverr-Visit_Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> </a> </p> </td> <td width="50%"> <h3>📱 Mini Projects Vault</h3> <p> 🧪 Prototypes in ML, APIs, Web, IoT experiments<br> 🚀 Real-time apps with Flask, Firebase, and React<br> 🎓 Used for training, demos, and hackathons<br><br> <a href="https://github.com/anujjainbatu?tab=repositories&q=&type=public&language=&sort=name"> <img src="https://img.shields.io/badge/Explore%20More%20Projects-343541?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> </tr> </table>
 
 ---
 
@@ -108,4 +89,3 @@ Platforms:       Firebase, Android Studio, Jupyter, VS Code
 * Ethical AI & Red Teaming
 
 </details>
-```
