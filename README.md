@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1Z1nF1mxVtUel03iskb8RKq7Eqz-crba4/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/ Download Resume-007ACC?style=for-the-badge&logo=drive&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/ Download Resume-007ACC?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
 
