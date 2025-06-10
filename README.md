@@ -125,5 +125,6 @@ Platforms:       Firebase, Android Studio, Jupyter, VS Code
 * Advanced Prompt Engineering for Business
 * Designing Scalable IoT Systems
 * Ethical AI & Red Teaming
+* Business Analytics
 
 </details>
