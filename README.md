@@ -26,30 +26,29 @@
 ### 🧰 Tech Stack
 
 ```yaml
-Languages:       Python, SQL, JavaScript, C++, Java
-Backend:         Flask, Django, REST APIs
-Frontend:        React.js, HTML/CSS, Firebase
-ML & AI:         TensorFlow, XGBoost, Scikit-learn, Pandas, NumPy, OpenCV
-Tools & DevOps:  Git, Docker, GitHub Actions, Postman, Heroku
-Platforms:       Firebase, Android Studio, Jupyter, VS Code
-````
+Languages:                Python, SQL, JavaScript, HTML/CSS
+ML:                       Scikit-learn, XGBoost, TensorFlow, OpenCV, Pandas, NumPy
+GenAI:                    OpenAI API, LangChain, LangGraph, LLM Agents, ChatGPT Integration
+Web/API:                  FastAPI, Flask, REST APIs, React.js, Firebase SDK
+DevOps & Platforms:       Docker, Git, GitHub Actions, CI/CD, Postman, AWS (EC2/S3), Firebase, Heroku
+```
 
 ---
 
 ### 🏆 Notable Projects
 
-<table> <tr> <td width="50%"> <h3>♟️ Smart Chessboard</h3> <p> 🧠 IoT + Cloud + AI integration for physical chess<br> 🔍 <strong>98.2% move detection</strong> using ESP32, reed switches<br> 🌐 Firebase cloud + React dashboard + Stockfish AI<br> 🔋 40% power optimized<br><br> <a href="https://github.com/anujjainbatu/chess-trace"> <img src="https://img.shields.io/github/stars/anujjainbatu/chess-trace?style=social" /> </a> <a href="https://github.com/anujjainbatu/chess-trace"> <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> <td width="50%"> <h3>🛡️ hideFlare</h3> <p> 🏆 <strong>Smart India Hackathon Finalist (Top 5)</strong><br> 🧪 AI + Cybersecurity tool for CDN obfuscation<br> 📊 Built with Flask, Scikit-learn, XGBoost (92% accuracy)<br> 🛰️ Real-time DNS, TLS fingerprinting, ASN & GeoIP analysis<br><br> <a href="https://github.com/anujjainbatu/hideFlare"> <img src="https://img.shields.io/github/stars/anujjainbatu/hideFlare?style=social" /> </a> <a href="https://github.com/anujjainbatu/hideFlare"> <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> </tr> <tr> <td width="50%"> <h3>⚙️ Fiverr Automations</h3> <p> 🧰 Delivered 20+ automation tools via freelancing<br> 🔄 Python + Selenium + Requests for scraping & pipelines<br> 💳 Integrated Flask APIs with payment and dashboard<br> ⏱️ 3x faster code than client legacy scripts<br><br> <a href="https://fiverr.com/anujjainbatu"> <img src="https://img.shields.io/badge/Fiverr-Visit_Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> </a> </p> </td> <td width="50%"> <h3>📱 Mini Projects Vault</h3> <p> 🧪 Prototypes in ML, APIs, Web, IoT experiments<br> 🚀 Real-time apps with Flask, Firebase, and React<br> 🎓 Used for training, demos, and hackathons<br><br> <a href="https://github.com/anujjainbatu?tab=repositories&q=&type=public&language=&sort=updated"> <img src="https://img.shields.io/badge/Explore%20More%20Projects-343541?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> </tr> </table>
+<table> <tr> <td width="50%"> <h3>♟️ Smart Chessboard</h3> <p> 🧠 IoT + Cloud + AI integration for physical chess<br> 🔍 <strong>98.2% move detection</strong> using ESP32, reed switches<br> 🌐 Firebase cloud + React dashboard + Stockfish AI<br> 🔋 40% power optimized<br><br> <a href="https://github.com/anujjainbatu/chess-trace"> <img src="https://img.shields.io/github/stars/anujjainbatu/chess-trace?style=social" /> </a> <a href="https://github.com/anujjainbatu/chess-trace"> <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> <td width="50%"> <h3>🔗 LeetConnect</h3> <p> 🏆 <strong>Chrome Extension for LeetCode Stats Tracking</strong><br> 🧪 Real-time friend progress monitoring & notifications<br> 📊 Built with Vanilla JS, Chrome APIs, Manifest V3<br> 🛰️ Auto-refresh, caching, and beautiful dark UI<br><br> <a href="https://github.com/anujjainbatu/leetconnect"> <img src="https://img.shields.io/github/stars/anujjainbatu/leetconnect?style=social" /> </a> <a href="https://github.com/anujjainbatu/leetconnect"> <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> </tr> <tr> <td width="50%"> <h3>⚙️ Fiverr Automations</h3> <p> 🧰 Delivered 20+ automation tools via freelancing<br> 🔄 Python + Selenium + Requests for scraping & pipelines<br> 💳 Integrated Flask APIs with payment and dashboard<br> ⏱️ 3x faster code than client legacy scripts<br><br> <a href="https://fiverr.com/anujjainbatu"> <img src="https://img.shields.io/badge/Fiverr-Visit_Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /> </a> </p> </td> <td width="50%"> <h3>📱 Mini Projects Vault</h3> <p> 🧪 Prototypes in ML, APIs, Web, IoT experiments<br> 🚀 Real-time apps with Flask, Firebase, and React<br> 🎓 Used for training, demos, and hackathons<br><br> <a href="https://github.com/anujjainbatu?tab=repositories&q=&type=public&language=&sort=updated"> <img src="https://img.shields.io/badge/Explore%20More%20Projects-343541?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> </td> </tr> </table>
 
 ---
 
 ### 💼 Experience
 
-* **Software Engineering Intern @ MookMati**
-
-  * Optimized checkout & inventory APIs (↑ speed by 30%)
-  * Built price tracking UI in React & improved unit tests (85% coverage)
+* **Machine Learning Intern @ MookMati**
+  * Developed ML model for book genre classification using TF-IDF + XGBoost (85% F1 score), deployed via FastAPI for live inference.
+  * Engineered FastAPI backend with REST endpoints for genre prediction and recommendations, integrated with logging for performance monitoring.
+  * Containerized service using Docker and deployed on AWS EC2 with autorestart scripts and process monitoring for production-grade reliability.
+  * Optimized checkout and inventory APIs, improving speed by 30% and achieving 85% unit test coverage.
 * **Freelance Python Developer @ Fiverr**
-
   * Delivered 20+ automation tools for scraping/data pipelines
   * Built REST APIs with Flask/Django and payment integration
 
@@ -79,7 +78,6 @@ Platforms:       Firebase, Android Studio, Jupyter, VS Code
 
 <details>
 <summary>📊 GitHub Stats</summary>
-
 
 <div align="center">
   <table>
