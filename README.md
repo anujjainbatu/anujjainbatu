@@ -110,7 +110,7 @@ DevOps & Platforms:       Docker, Git, GitHub Actions, CI/CD, Postman, AWS (EC2/
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anujjainbatu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;•&nbsp;
-  <a href="https://github.com/princebhatt03?tab=followers">
+  <a href="https://github.com/anujjainbatu?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/anujjainbatu?color=236ad3&label=Followers&logo=github&logoColor=white&style=flat" />
   </a>
 </p>
