@@ -100,12 +100,13 @@ DevOps & Platforms:       Docker, Git, GitHub Actions, CI/CD, Postman, AWS (EC2/
   </table>
 </div>
 
-<!-- Contribution Graph -->
+<!-- Contribution Graph
 <p align="center">
   <img width="90%" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=anujjainbatu&theme=dracula&hide_border=true" 
     alt="Anuj's GitHub Activity Graph" />
 </p>
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anujjainbatu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
