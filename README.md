@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://anujjainbatu.github.io/anujjainbatu/resume_15092025.pdf">
+  <a href="https://anujjainbatu.github.io/anujjainbatu/resume_show_16092025.pdf">
     <img src="https://img.shields.io/badge/ Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
   </a>
   <a href="https://portfolio.anujjainbatu.tech/">
