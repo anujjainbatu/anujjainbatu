@@ -37,85 +37,19 @@ Currently I work on customer-facing AI systems across eCommerce, healthcare, and
 
 ---
 
-## Tech Stack
+## 🛠 Skills
 
-### Languages
+**Languages:** Python, JavaScript, TypeScript, SQL
 
-Python • JavaScript • TypeScript • SQL
+**AI & Agent Frameworks:** OpenAI API, Anthropic API, Gemini API, Claude Code, Claude Code CLI, LangChain, LangGraph, RAG, AI Agents, Model Context Protocol (MCP), ElevenLabs Voice AI
 
-### AI & Agent Engineering
+**Backend & APIs:** FastAPI, Django, REST APIs, Webhooks, OAuth/JWT, Swagger/OpenAPI
 
-OpenAI API
+**Automation & Integrations:** n8n, Zapier, Shopify, Interakt (WhatsApp Business API), GoHighLevel, Meta Ads, Google Ads, Mailchimp, Payment Gateways
 
-Anthropic API
+**Infrastructure & DevOps:** Docker, AWS (EC2, S3), PostgreSQL, MySQL, GitHub Actions, NGINX, Gunicorn
 
-Claude Code
-
-Gemini API
-
-LangChain
-
-LangGraph
-
-Model Context Protocol (MCP)
-
-AI Agents
-
-RAG
-
-ElevenLabs Voice AI
-
-### Backend
-
-FastAPI
-
-Django
-
-REST APIs
-
-Webhooks
-
-OAuth
-
-JWT
-
-Swagger / OpenAPI
-
-PostgreSQL
-
-MySQL
-
-### Automation & Enterprise Platforms
-
-n8n
-
-Zapier
-
-Shopify
-
-Interakt (WhatsApp Business API)
-
-GoHighLevel
-
-Meta Ads
-
-Google Ads
-
-Mailchimp
-
-### Infrastructure
-
-Docker
-
-AWS (EC2, S3)
-
-GitHub Actions
-
-NGINX
-
-Gunicorn
-
-Git
+**Developer Tools:** Git, GitHub, Postman
 
 ---
 
