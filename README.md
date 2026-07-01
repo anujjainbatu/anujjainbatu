@@ -100,12 +100,12 @@ AI agents + WhatsApp automation driving personalized customer journeys.
 
 ## 🧰 Tech I build with
 
-**Languages** — Python · JavaScript · TypeScript · SQL
-**AI & Agents** — OpenAI · Anthropic · Gemini · Claude Code & CLI · LangChain · LangGraph · RAG · MCP · ElevenLabs Voice AI
-**Backend & APIs** — FastAPI · Django · REST · Webhooks · OAuth/JWT · Swagger/OpenAPI
-**Automation & Integrations** — n8n · Zapier · Shopify · Interakt (WhatsApp Business API) · GoHighLevel · Meta Ads · Google Ads · Mailchimp · Payment Gateways
-**Infra & DevOps** — Docker · AWS (EC2, S3) · PostgreSQL · MySQL · GitHub Actions · NGINX · Gunicorn
-**Tools** — Git · GitHub · Postman
+**Languages** — Python · JavaScript · TypeScript · SQL <br>
+**AI & Agents** — OpenAI · Anthropic · Gemini · Claude Code & CLI · LangChain · LangGraph · RAG · MCP · ElevenLabs Voice AI  <br>
+**Backend & APIs** — FastAPI · Django · REST · Webhooks · OAuth/JWT · Swagger/OpenAPI  <br>
+**Automation & Integrations** — n8n · Zapier · Shopify · Interakt (WhatsApp Business API) · GoHighLevel · Meta Ads · Google Ads · Mailchimp · Payment Gateways  <br>
+**Infra & DevOps** — Docker · AWS (EC2, S3) · PostgreSQL · MySQL · GitHub Actions · NGINX · Gunicorn  <br>
+**Tools** — Git · GitHub · Postman  <br>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -127,7 +127,7 @@ AI agents + WhatsApp automation driving personalized customer journeys.
 
 ## 🧭 Currently
 
-**Focused on** — Enterprise AI · AI Agents · MCP Servers · Claude Code · Voice AI · Solution Architecture · AI Commerce · Developer Tooling
+**Focused on** — Enterprise AI · AI Agents · MCP Servers · Claude Code · Voice AI · Solution Architecture · AI Commerce · Developer Tooling  <br>
 **Exploring** — Advanced multi-agent systems · AI infrastructure · AI platform engineering · Developer experience
 
 ---
