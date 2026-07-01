@@ -6,7 +6,7 @@
 -->
 
 <img src="banner.svg" width="100%" alt="Anuj Jain — AI Solutions Engineer" />
-
+<!--
 <p align="center">
   <a href="https://linkedin.com/in/anujjainbatu">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,10 +20,10 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Open_to-Enterprise_AI_work-8B5CF6?style=for-the-badge" alt="Open to work" />
 </p>
-
+-->
 ---
 
-### I build production AI systems that move revenue — not prototypes.
+### I build production AI systems that move revenue - not prototypes.
 
 I'm an **AI Solutions Engineer**. I design and ship customer-facing AI across **eCommerce, healthcare, and enterprise automation** — combining LLMs, AI agents, voice, backend engineering, and workflow orchestration into systems businesses actually run on.
 
@@ -140,4 +140,4 @@ AI agents + WhatsApp automation driving personalized customer journeys.
 
 <br/>
 
-> *I enjoy building AI systems that create measurable business impact — not just prototypes.*
+> *I enjoy building AI systems that create measurable business impact - not just prototypes.*
