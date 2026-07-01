@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Open_to-Enterprise_AI_work-8B5CF6?style=for-the-badge" alt="Open to work" />
 </p>
 -->
----
 
 ### I build production AI systems that move revenue - not prototypes.
 
