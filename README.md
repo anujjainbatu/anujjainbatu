@@ -5,7 +5,7 @@
   from SVG pasted inline as markup — as <img> they animate fine.
 -->
 
-<img src="./assets/banner.svg" width="100%" alt="Anuj Jain — AI Solutions Engineer" />
+<img src="banner.svg" width="100%" alt="Anuj Jain — AI Solutions Engineer" />
 
 <p align="center">
   <a href="https://linkedin.com/in/anujjainbatu">
@@ -33,7 +33,7 @@ The way I think about architecture looks a lot like an **n8n canvas**: real-worl
 
 ## ⚙️ How my systems work
 
-<img src="./assets/workflow.svg" width="100%" alt="Sources (WhatsApp, Meta Ads, Shopify) flow into an AI Agent hub, which drives Voice AI, CRM sync, analytics, and revenue outcomes" />
+<img src="workflow.svg" width="100%" alt="Sources (WhatsApp, Meta Ads, Shopify) flow into an AI Agent hub, which drives Voice AI, CRM sync, analytics, and revenue outcomes" />
 
 <p align="center"><i>Sources → AI agent layer → outcomes. One architecture, deployed across dozens of businesses.</i></p>
 
@@ -41,7 +41,7 @@ The way I think about architecture looks a lot like an **n8n canvas**: real-worl
 
 ## 📈 Impact
 
-<img src="./assets/impact.svg" width="100%" alt="Approximately 15L per month attributed revenue, 8 Shopify stores, 6 hospitals and clinics, 14 businesses on revenue intelligence" />
+<img src="impact.svg" width="100%" alt="Approximately 15L per month attributed revenue, 8 Shopify stores, 6 hospitals and clinics, 14 businesses on revenue intelligence" />
 
 - 💸 AI WhatsApp commerce platform contributing **≈ ₹15L/month** in attributed revenue for **One Science Nutrition**
 - 🏪 AI commerce automation live across **8 Shopify stores**
